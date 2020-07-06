@@ -2,8 +2,8 @@
 Machine learning projects from beginner to advanced level.
 
 This repository will be filled with machine learning projects created in Jupyter Notebook.
-It will be my own work as a "noobie" machine learner who does that for fun. So please don't
-take these material for granted. I will do a lot fo mistakes and sometimes i won't :), but 
+It is on any kind of tutorial, i am just boosting my knowledge and skills. So please don't
+take these material for granted. I will do a lot of mistakes and sometimes i won't :), but 
 it could be a great source for starting learners, for comparison, inspiration etc.
 
-If someone will ever read it :).
+*Note: i am fitting the model aálso on test set - change only for transofrmation and predict values*
