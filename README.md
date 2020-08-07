@@ -7,6 +7,6 @@ Contains:
 3. Big Mart Sales - even a little better than previous project - 187th of 4000 on analyticsvydhia, but still a lot to improve!
 
 What to improve in next project: 
-A. metric score on test/train
-B. starting with fast ML algorithm and with feature selection => and proceed with that
-C. using polynomial features
+- metric score on test/train
+ - starting with fast ML algorithm and with feature selection => and proceed with that
+- using polynomial features
