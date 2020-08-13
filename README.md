@@ -1,5 +1,5 @@
 # Machine_learning_Project_EN
-Machine learning projects from beginner to advanced level. Over time I will be adding more projects.
+Machine learning projects from beginner to advanced level. Over time I will be adding more and more projects.
 
 Contains:
 1. Iris data set - short and easy introduction to ML - using Pandas, Numpy, Scikit, Matplotlib and Seaborn
