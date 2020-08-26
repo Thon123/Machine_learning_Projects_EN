@@ -8,5 +8,5 @@ Contains:
 - **PySpark intro** - a set of micro projects from PySpark course I have taken, some parts are written by me some are from course,
 mainly a handy functions for data preparation.
 - **TensorFlow intro** - contains theory and code about ANN, CNNs, RNNs (GRU, LSTM) and Reinforcment Learning (not done yet). Main sources of information are: TF2 course by LP, Hands-On Machine...and TensorFlow by Aurélien Géron and Deep Learning Specialization by Andrew Ng.
-- **Tips & Tricks** - a set of interesting tips about theory, procedures and libraries (will be updated continuously)
+- **Tips & Tricks** - a set of notebooks with tips and tehory (will be updated continuously)
 - **Trading/Stocks** - a set of micro projects (at first) about Trading - connecting with Python, backtesting, data visualization, Ml for classification etc. (in progress)
